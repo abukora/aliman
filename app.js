@@ -1336,7 +1336,7 @@ function renderHome() {
         <div class="hero">
             <h1>حصون الإيمان</h1>
             <p>المنهج الصيفي المتكامل لبناء شخصية ابنك المسلمة</p>
-            <p class="sub-meta">📚 10 كراسات &nbsp;|&nbsp; 130 درساً &nbsp;|&nbsp; 45 يوماً &nbsp;|&nbsp; للفئة 9-15 سنة</p>
+            <p class="sub-meta">📚 10 كراسات &nbsp;|&nbsp; 130 درساً &nbsp;|&nbsp; 30 يوماً &nbsp;|&nbsp; للفئة 9-15 سنة</p>
             <div class="hero-actions">
                 <a class="btn-hero btn-game" href="game.html">
                     <i class="fas fa-gamepad"></i> ابدأ السباق الآن
